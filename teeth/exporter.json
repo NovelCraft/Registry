@@ -1,6 +1,6 @@
 {
     "format_version": 1,
-    "tooth": "github.com/NovelCraft/MinecraftLevelExporter-tooth",
+    "tooth": "github.com/NovelCraft/Tooth-MinecraftLevelExporter",
     "information": {
         "name": "Minecraft Level Exporter",
         "description": "Export and convert Minecraft level to NovelCraft level.",
